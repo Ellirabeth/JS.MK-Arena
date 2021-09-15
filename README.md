@@ -4,6 +4,9 @@
 - Css
 - ✨Js ✨
 
+## Preview
+(assets/preview.png)
+
 ## License
 
 MIT
