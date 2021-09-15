@@ -5,7 +5,7 @@
 - ✨Js ✨
 
 ## Preview
-(assets/preview.png)
+![.](assets/preview.png)
 
 ## License
 
